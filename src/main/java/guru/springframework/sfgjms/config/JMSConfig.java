@@ -19,5 +19,4 @@ public class JMSConfig {
         converter.setTypeIdPropertyName("_type");
         return converter;
     }
-
 }
